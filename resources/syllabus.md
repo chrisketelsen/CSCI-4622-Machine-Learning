@@ -52,6 +52,8 @@ having 30 reading quizzes then I will drop your three lowest scores.)
 
 **Exams**: There will be an in-class midterm on March XX and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
+**Exam Cut-Off**: You must earn a combined exam average of a 55% or greater to earn above a D+ in this course.  If the combined course average of the two exams is below a 75% then the 55% threshold will be adjusted down accordingly. 
+
 **Practicum**: You will be given a practicum during the last two weeks of the semester.  This will be like a cumulative larger homework assignment where you show off all of the skills that you have learned in the course.  The practicum must be completed **completely independently**.  You may not discuss your solutions with anyone else in the class. 
 
 ### Grade Determination 
@@ -64,9 +66,6 @@ The overall grades will be based on a cumulative score computed from
 * The final exam (25% of the grade)
 * The practicum (10% of the grade)
 
-### Exam Cut-Off 
-
-You must earn a combined exam average of a 55% or greater to earn above a D+ in this course.  If the combined course average of the two exams is below a 75% then this exam cut-off will be adjusted down accordingly. 
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
