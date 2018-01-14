@@ -7,6 +7,7 @@
 **Office Hours**: WF 12-1pm in CSEL and Th 1:30-3pm in ECOT 731 or by appointment
 
 **Prerequisites**: 
+
 	- C- or better in Algorithms 
 	- C- or better in CSCI 2820 (or equivalent)
 	- C- or better in CSCI 3022 (or equivalent)
