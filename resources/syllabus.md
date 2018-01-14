@@ -60,11 +60,11 @@ having 30 reading quizzes then I will drop your three lowest scores.)
 
 The overall grades will be based on a cumulative score computed from 
 
-* The homework (35% of the grade)
+* The homework (30% of the grade)
 * The reading quizzes (10% of the grade)
 * The midterm exam (20% of the grade)
 * The final exam (25% of the grade)
-* The practicum (10% of the grade)
+* The practicum (15% of the grade)
 
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
