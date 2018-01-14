@@ -6,7 +6,7 @@
 
 **Office Hours**: WF 12-1pm in CSEL and Th 1:30-3pm in ECOT 731 or by appointment
 
-* **Prerequisites**: 
+**Prerequisites**: 
 	* C- or better in Algorithms 
 	* C- or better in CSCI 2820 (or equivalent)
 	* C- or better in CSCI 3022 (or equivalent)
@@ -35,7 +35,7 @@ This term we will be using Piazza for class discussion. The system is highly cat
 
 ### Computing
 
-A major component of this course is to learn modern, practical computing skills for data analysis.  Our two main tools will be Python 3 and Jupyter Notebooks.  It is estimated that around 50% of practicing data scientists do most of their analysis using Python (while the other roughly 50% use R, which we shall not speak of).  The Jupyter Notebook is a browser-based programming environment that allows you to seamlessly mix Python code (as well as many other languages), graphics, and exposition (in Markdown).  The Jupyter Notebook has become ubiquitous in the data science community for rapidly prototyping ideas and sharing them with colleagues and the rest of the world. 
+A major component of this course is to learn modern, practical computing skills for machine learning.  Our two main tools will be Python 3 and Jupyter Notebooks.  It is estimated that around 50% of practicing data scientists do most of their analysis using Python (while the other roughly 50% use R, which we shall not speak of).  The Jupyter Notebook is a browser-based programming environment that allows you to seamlessly mix Python code (as well as many other languages), graphics, and exposition (in Markdown).  The Jupyter Notebook has become ubiquitous in the data science community for rapidly prototyping ideas and sharing them with colleagues and the rest of the world. 
 
 It is strongly recommended that you install Python 3 and Jupyter on your local machine. By far, the easiest way to do this is by installing the [Anaconda](https://www.continuum.io/downloads) distribution of Python 3.6.  This distribution comes with many Python packages useful for data science and scientific computation in general. It also comes with Jupyter by default.
 
