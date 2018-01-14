@@ -8,10 +8,10 @@
 
 **Prerequisites**: 
 
-	- C- or better in Algorithms 
-	- C- or better in CSCI 2820 (or equivalent)
-	- C- or better in CSCI 3022 (or equivalent)
-	- ability (or willingness to learn) to program in Python 3 
+- C- or better in Algorithms 
+- C- or better in CSCI 2820 (or equivalent)
+- C- or better in CSCI 3022 (or equivalent)
+- ability (or willingness to learn) to program in Python 3 
 
 ### Course Description 
 
