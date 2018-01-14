@@ -50,7 +50,7 @@ one or two short problems based on the reading and lecture material from the pre
 available to you (lecture slides, class notes, reading material, your computer, the internet) but you should work the problems on your own.  These will not be terribly difficult, and are primarily designed to keep you honest with respect to attending class and keeping up with the reading.  **No extensions or make-up quizzes will be given** but I will drop 10% of your lowest quiz scores (e.g. if we end up
 having 30 reading quizzes then I will drop your three lowest scores.)
 
-**Exams**: There will be an in-class midterm on March XX and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
+**Exams**: There will be an evening midterm on March 7th and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
 **Exam Cut-Off**: You must earn a combined exam average of a 55% or greater to earn above a D+ in this course.  If the combined course average of the two exams is below a 75% then the 55% threshold will be adjusted down accordingly. 
 

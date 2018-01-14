@@ -6,6 +6,18 @@
 - Homework is due on Moodle by 5pm on Friday the week **after** the assignment is listed.
 - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/inclass-notebooks)
 
+<!---
+1. Regression Refresher (because they’ve just seen this in 3022) and I can use it to introduce Bias-Variance Trade-Off
+2. KNN 
+3. Perceptron 
+4. Logistic Regression and SGD 
+5. Neural Nets 
+6. Feature Engineering 
+7. Simple Learning Theory 
+8. SVMs 
+9. Decision Trees, Ensembles, and Boosting 
+-->
+
 
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework  	   | 
@@ -40,22 +52,22 @@
 | 10     | 03.19        |              |                                           |	         |  hmwk05         | 
 |        | 03.21        |              |                                           |	         |                 | 
 |        | 03.23        |  	           |                                           |		     |                 |
-|        | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
+| 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |                 |
-| 11     | 04.02        |              |                                           |	         |                 | 
+| 12     | 04.02        |              |                                           |	         |                 | 
 |        | 04.04        |              |                                           |	         |                 | 
 |        | 04.06        |              |                                           |			 |                 |
-| 12     | 04.09        |              |                                           |			 |  hmwk06         | 
+| 13     | 04.09        |              |                                           |			 |  hmwk06         | 
 |        | 04.11        |              |                                           |			 |			       | 
 |        | 04.13        |              |                                           |			 |	               | 
-| 13     | 04.16        |              |                                           |	         |                 | 
+| 14     | 04.16        |              |                                           |	         |                 | 
 |        | 04.18        |              |                                           |	         |                 | 
 |        | 04.20        |              |                                           |			 |                 |
-| 14     | 04.23        |              |                                           |	         |  Practicum      | 
+| 15     | 04.23        |              |                                           |	         |  Practicum      | 
 |        | 04.25        |              |                                           |	         |                 | 
 |        | 04.27        |              |                                           |	    	 |                 |
-| 15     | 04.30        |              |                                           |	         |                 | 
-|        | 05.02        |              |                                           |			 |	               |
+| 16     | 04.30        |              |                                           |	         |                 | 
+|        | 05.02        |              | Ethics and Machine Learning               |			 |	               |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	               |
-| 16     | 05.XX        |              | **FINAL EXAM**                            |			 |			       | 
+| 17     | 05.XX        |              | **FINAL EXAM**                            |			 |			       | 
