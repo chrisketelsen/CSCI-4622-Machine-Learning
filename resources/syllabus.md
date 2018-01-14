@@ -45,14 +45,14 @@ Frequently in class we will explore computational problems directly in Jupyter n
 
 **Homework**: Homework will be assigned roughly every two weeks and due by 5pm on Fridays on Moodle.  Assignments will be a mix of theoretical and computational problems.  The theoretical problems may include by-hand computations and simple proofs.  The computational problems will involve implementing and analyzing your own predictive models in Python or using canned routines from Scikit-Learn.  All assignments will be completed and submitted in Jupyter Notebooks.  You are allotted **THREE** late days that may be used for homework over the entire semester. Submitting an assignment between 1 second and 23 hrs, 59 minutes, 59 seconds late constitutes 1 late day.  After you have expended your allotted late days late homework will **NOT** be accepted or graded. **Your lowest homework score will be dropped**. You are expected to write up your solutions neatly, with full explanations and justifications. You may discuss problems with your classmates, **but all work must be your own**.  See the **Collaboration Policy** below for more details. 
 
-**Reading Quizzes**: Most lectures will have an associated online "quiz" due before the next class day.  These will consist of 
+**Reading Quizzes**: Most lectures will have an associated online "quiz" on Moodle due before the next class day.  These will consist of 
 one or two short problems based on the reading and lecture material from the previous lecture.  You may use any reasonable resources 
 available to you (lecture slides, class notes, reading material, your computer, the internet) but you should work the problems on your own.  These will not be terribly difficult, and are primarily designed to keep you honest with respect to attending class and keeping up with the reading.  **No extensions or make-up quizzes will be given** but I will drop 10% of your lowest quiz scores (e.g. if we end up
 having 30 reading quizzes then I will drop your three lowest scores.)
 
 **Exams**: There will be an evening midterm on March 7th and a final exam given during the university scheduled final examination time.  The final exam will be **cumulative** but will emphasize material covered after the midterm. Note that due to university regulations, **final exams can only be rescheduled due to official university excused absences**.  Please plan your holiday travel accordingly.  
 
-**Exam Cut-Off**: You must earn a combined exam average of a 55% or greater to earn above a D+ in this course.  If the combined course average of the two exams is below a 75% then the 55% threshold will be adjusted down accordingly. 
+**Exam Cut-Off**: You must earn a combined exam average of a 55% or greater to earn above a D+ in this course.  If the combined class average of the two exams is below a 75% then the 55% threshold will be adjusted down accordingly. 
 
 **Practicum**: You will be given a practicum during the last two weeks of the semester.  This will be like a cumulative larger homework assignment where you show off all of the skills that you have learned in the course.  The practicum must be completed **completely independently**.  You may not discuss your solutions with anyone else in the class. 
 
