@@ -39,8 +39,6 @@ A major component of this course is to learn modern, practical computing skills 
 
 It is strongly recommended that you install Python 3 and Jupyter on your local machine. By far, the easiest way to do this is by installing the [Anaconda](https://www.continuum.io/downloads) distribution of Python 3.6.  This distribution comes with many Python packages useful for data science and scientific computation in general. It also comes with Jupyter by default.
 
-If you are unable (or unwilling) to install Anaconda on your personal machine then you may access and use Jupyter directly on the web through [Microsoft Azure Notebooks](https://notebooks.azure.com/).  You may create a free account using your CU email address and identikey password.  Note that while this is a convenient option for using Jupyter, there are a few quirks that make it less ideal than local installations.  In particular you are unable to store anything in your online workspace that is not a Jupyter notebook (this means you can't store data locally, for instance). 
-
 Frequently in class we will explore computational problems directly in Jupyter notebooks.  It is highly recommended that you bring a laptop with you to class, however it's perfectly acceptable that you team up with a classmate on a single computer. 
 
 ### Coursework 
