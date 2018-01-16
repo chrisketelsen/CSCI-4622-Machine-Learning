@@ -55,19 +55,19 @@
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |                 |
-| 12     | 04.02        |              | Hard-Margin SVM                           |	         |                 | 
-|        | 04.04        |              | Soft-Margin SVM Part 1                    |	         |                 | 
-|        | 04.06        |              | Soft-Margin SVM Part 2                    |			 |                 |
-| 13     | 04.09        |              | The Kernel Trick                          |			 |  hmwk06         | 
-|        | 04.11        |              | **Hands-On SVM**                          |			 |			       | 
-|        | 04.13        |              | Naive Bayes                               |			 |	               | 
+| 12     | 04.02        |              | Little Bit'o Theory 					   |	         |                 | 
+|        | 04.04        |              | Hard-Margin SVM 						   |	         |                 | 
+|        | 04.06        |              | Soft-Margin SVM Part 1                    |			 |                 |
+| 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |  hmwk06         | 
+|        | 04.11        |              | The Kernel Trick 						   |			 |			       | 
+|        | 04.13        |              | **Hands-On SVM**						   |			 |	               | 
 | 14     | 04.16        |              | Decision Trees Part 1                     |	         |                 | 
 |        | 04.18        |              | Decision Trees Part 2                     |	         |                 | 
 |        | 04.20        |              | Random Forest Service                     |			 |                 |
-| 15     | 04.23        |              | Boosting Part 1                           |	         |  Practicum      | 
-|        | 04.25        |              | Boosting Part 2                           |	         |                 | 
-|        | 04.27        |              | **Hands on Decision Trees**               |	    	 |                 |
-| 16     | 04.30        |              | Mystery Day                               |	         |                 | 
+| 15     | 04.23        |              | 										   |	         |  Practicum      | 
+|        | 04.25        |              | 										   |	         |                 | 
+|        | 04.27        |              | Boosting Part 1						   |	    	 |                 |
+| 16     | 04.30        |              | Boosting Part 2 						   |	         |                 | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	               |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	               |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |			       | 
