@@ -31,12 +31,12 @@
 | 3      | 01.29        |              | Classification and K-Nearest Neighbors    |	         |                 | 
 |        | 01.31        |              | The Perceptron                            |	         |                 | 
 |        | 02.02        |              | **Hands-On KNN and Perceptron**           |			 |                 |
-| 4      | 02.05        |              |                                           |	         |  hmwk02         | 
-|        | 02.07        |              |                                           |             |                 | 	
-|        | 02.09        |              |                                           |   		 	 |                 |
-| 5      | 02.12        |              |                                           |	         |                 | 
-|        | 02.14        |              |                                           |	         |                 | 
-|        | 02.16        |              |                                           |			 |                 |
+| 4      | 02.05        |              | Logistic Regression                       |	         |  hmwk02         | 
+|        | 02.07        |              | Intro to Text Models                      |             |                 | 	
+|        | 02.09        |              | **Hands-On Logistic Regression**          |   		 	 |                 |
+| 5      | 02.12        |              | Stochastic Gradient Descent Part 1        |	         |                 | 
+|        | 02.14        |              | Stochastic Gradient Descent Part 2        |	         |                 | 
+|        | 02.16        |              | **Hands-On SGD**                          |			 |                 |
 | 6      | 02.19        |              |                                           |	         |  hmwk03         | 
 |        | 02.21        |              |                                           |	         |                 | 
 |        | 02.23        |              |                                           |			 |                 |
