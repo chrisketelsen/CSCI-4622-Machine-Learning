@@ -28,10 +28,11 @@
 | 2      | 01.22        | 6.2          | Regularization                            |			 |	hmwk01 	       | 
 |        | 01.24        | 2.2          | The Bias-Variance Trade-Off               |	         |                 |	
 |        | 01.26        |              | **Hands-On Regression**                   |			 |                 |
-| 3      | 01.29        | 2.2.3, 4.1, 4.2   | Classification and K-Nearest Neighbors    |	         |                 | 
-|        | 01.31        |              | The Perceptron                            |	         |                 | 
+| 3      | 01.29        | 2.2.3, 4.1, 4.2| Classification and K-Nearest Neighbors  |	         |                 | 
+|        | 01.31        | [Daume](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)             
+									   | The Perceptron                            |	         |                 | 
 |        | 02.02        |              | **Hands-On KNN and Perceptron**           |			 |                 |
-| 4      | 02.05        |              | Logistic Regression                       |	         |  hmwk02         | 
+| 4      | 02.05        | 4.3.1-4.3.3  | Logistic Regression                       |	         |  hmwk02         | 
 |        | 02.07        |              | Intro to Text Models                      |             |                 | 	
 |        | 02.09        |              | **Hands-On Logistic Regression**          |   		 	 |                 |
 | 5      | 02.12        |              | Stochastic Gradient Descent Part 1        |	         |                 | 
