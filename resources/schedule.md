@@ -45,7 +45,7 @@
 |        | 03.02        |              | Neural Nets Mystery Day 2                 |			 |                 |
 | 8      | 03.05        |              | Midterm Exam Review                       |	         |  hmwk04         | 
 |        | 03.07        |              | NNMD 3 + **Evening Midterm Exam**         |	         |                 | 
-|        | 03.09        |              |                                           |	         |                 | 
+|        | 03.09        |              | Feature Engineering                       |	         |                 | 
 | 9      | 03.12        |              |                                           |	         |                 | 
 |        | 03.14        |              |                                           |	         |                 | 
 |        | 03.16        |              |                                           |			 |                 |
@@ -55,11 +55,11 @@
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |                 |
-| 12     | 04.02        |              |                                           |	         |                 | 
-|        | 04.04        |              |                                           |	         |                 | 
-|        | 04.06        |              |                                           |			 |                 |
-| 13     | 04.09        |              |                                           |			 |  hmwk06         | 
-|        | 04.11        |              |                                           |			 |			       | 
+| 12     | 04.02        |              | Hard-Margin SVM                           |	         |                 | 
+|        | 04.04        |              | Soft-Margin SVM Part 1                    |	         |                 | 
+|        | 04.06        |              | Soft-Margin SVM Part 2                    |			 |                 |
+| 13     | 04.09        |              | The Kernel Trick                          |			 |  hmwk06         | 
+|        | 04.11        |              | **Hands-On SVM**                          |			 |			       | 
 |        | 04.13        |              |                                           |			 |	               | 
 | 14     | 04.16        |              |                                           |	         |                 | 
 |        | 04.18        |              |                                           |	         |                 | 
