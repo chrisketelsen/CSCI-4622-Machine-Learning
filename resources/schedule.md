@@ -37,14 +37,14 @@
 | 5      | 02.12        |              | Stochastic Gradient Descent Part 1        |	         |                 | 
 |        | 02.14        |              | Stochastic Gradient Descent Part 2        |	         |                 | 
 |        | 02.16        |              | **Hands-On SGD**                          |			 |                 |
-| 6      | 02.19        |              |                                           |	         |  hmwk03         | 
-|        | 02.21        |              |                                           |	         |                 | 
-|        | 02.23        |              |                                           |			 |                 |
-| 7      | 02.26        |              |                                           |	         |                 | 
-|        | 02.28        |              |                                           |	         |                 | 
-|        | 03.02        |              |                                           |			 |                 |
+| 6      | 02.19        |              | Neural Nets and the MLP                   |	         |  hmwk03         | 
+|        | 02.21        |              | Back Propagation Part 1                   |	         |                 | 
+|        | 02.23        |              | Back Propagation Part 2                   |			 |                 |
+| 7      | 02.26        |              | **Hands-On Neural Nets**                  |	         |                 | 
+|        | 02.28        |              | Neural Nets Mystery Day 1 				   |	         |                 | 
+|        | 03.02        |              | Neural Nets Mystery Day 2                 |			 |                 |
 | 8      | 03.05        |              | Midterm Exam Review                       |	         |  hmwk04         | 
-|        | 03.07        |              | Evening Midterm Exam                      |	         |                 | 
+|        | 03.07        |              | NNMD 3 + **Evening Midterm Exam**         |	         |                 | 
 |        | 03.09        |              |                                           |	         |                 | 
 | 9      | 03.12        |              |                                           |	         |                 | 
 |        | 03.14        |              |                                           |	         |                 | 
