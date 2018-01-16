@@ -46,12 +46,12 @@
 | 8      | 03.05        |              | Midterm Exam Review                       |	         |  hmwk04         | 
 |        | 03.07        |              | NNMD 3 + **Evening Midterm Exam**         |	         |                 | 
 |        | 03.09        |              | Feature Engineering                       |	         |                 | 
-| 9      | 03.12        |              |                                           |	         |                 | 
-|        | 03.14        |              |                                           |	         |                 | 
-|        | 03.16        |              |                                           |			 |                 |
-| 10     | 03.19        |              |                                           |	         |  hmwk05         | 
-|        | 03.21        |              |                                           |	         |                 | 
-|        | 03.23        |  	           |                                           |		     |                 |
+| 9      | 03.12        |              | Validation                                |	         |                 | 
+|        | 03.14        |              | Evaluation Metrics                        |	         |                 | 
+|        | 03.16        |              | **Hands-On Eval and Validation**          |			 |                 |
+| 10     | 03.19        |              | Discrete Naive Bayes                      |	         |  hmwk05         | 
+|        | 03.21        |              | Continuous Naive Bayes                    |	         |                 | 
+|        | 03.23        |  	           | **Hands-On Naive Bayes**                  |		     |                 |
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |                 | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |                 |
@@ -64,10 +64,10 @@
 | 14     | 04.16        |              | Decision Trees Part 1                     |	         |                 | 
 |        | 04.18        |              | Decision Trees Part 2                     |	         |                 | 
 |        | 04.20        |              | Random Forest Service                     |			 |                 |
-| 15     | 04.23        |              | 										   |	         |  Practicum      | 
-|        | 04.25        |              | 										   |	         |                 | 
-|        | 04.27        |              | Boosting Part 1						   |	    	 |                 |
-| 16     | 04.30        |              | Boosting Part 2 						   |	         |                 | 
+| 15     | 04.23        |              | Boosting								   |	         |  Practicum      | 
+|        | 04.25        |              | Model-Free RL	Part 1					   |	         |                 | 
+|        | 04.27        |              | Model-Free RL	Part 2					   |	    	 |                 |
+| 16     | 04.30        |              | Model-Free RL	Part 3					   |	         |                 | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	               |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	               |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |			       | 
