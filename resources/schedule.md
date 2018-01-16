@@ -6,19 +6,6 @@
 - Homework is due on Moodle by 5pm on Friday the week **after** the assignment is listed.
 - All in-class notebooks will be posted [here](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/inclass-notebooks)
 
-<!---
-1. Regression Refresher (because they’ve just seen this in 3022) and I can use it to introduce Bias-Variance Trade-Off
-2. KNN 
-3. Perceptron 
-4. Logistic Regression and SGD 
-5. Neural Nets 
-6. Feature Engineering 
-7. Simple Learning Theory 
-8. SVMs 
-9. Decision Trees, Ensembles, and Boosting 
--->
-
-
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | Homework  	   | 
 |:------:|:------------:| -------------| ------------------------------------------|-------------|-----------------|
@@ -65,9 +52,49 @@
 |        | 04.18        |              | Decision Trees Part 1                     |	         |                 | 
 |        | 04.20        |              | Decision Trees Part 2                     |			 |                 |
 | 15     | 04.23        |              | Random Forest Service                     |	         |  Practicum      | 
-|        | 04.25        |              | Boosting 								   |	         |                 | 
+|        | 04.25        |              | Model-Free RL  Part 1 					   |	         |                 | 
 |        | 04.27        |              | Model-Free RL	Part 2					   |	    	 |                 |
 | 16     | 04.30        |              | Model-Free RL	Part 3					   |	         |                 | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	               |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	               |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |			       | 
+
+
+<!---
+Homework Sketch 
+
+hmwk01: 
+- Linear Algebra Review 
+- Probability Review
+- Implement a Python Class 
+- Bias-Variance Trade-Off - Simulate to get reducible-irreducible error curves
+
+hmwk02:
+- implement KNN with canned-ball-tree 
+- implement Perceptron from scratch 
+
+hmwk03:
+- logistic regression 
+- implement lazy sparse regularization 
+- implement momentum 
+- implement a learning rate schedule 
+
+hmwk04:
+- MLP architecture problem 
+- Implement backprop 
+- Implement gradient checking 
+
+hwmk05:
+- Feature engineering (Kaggle In-Class)
+- Implement cross-validation (with inference)
+
+hmwk06:
+- SVM by hand 
+- Implement coordinate ascent 
+- theoretical kernel questions 
+- use canned SVM
+- hyperparameter turning 
+
+Practicum: 
+- LOL not telling you 
+-->
