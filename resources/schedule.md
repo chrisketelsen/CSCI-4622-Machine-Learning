@@ -28,9 +28,9 @@
 | 2      | 01.22        |              | Regularization                            |			 |	hmwk01 	       | 
 |        | 01.24        |              | The Bias-Variance Trade-Off               |	         |                 |	
 |        | 01.26        |              | **Hands-On Regression**                   |			 |                 |
-| 3      | 01.29        |              |                                           |	         |                 | 
-|        | 01.31        |              |                                           |	         |                 | 
-|        | 02.02        |              |                                           |			 |                 |
+| 3      | 01.29        |              | Classification and K-Nearest Neighbors    |	         |                 | 
+|        | 01.31        |              | The Perceptron                            |	         |                 | 
+|        | 02.02        |              | **Hands-On KNN and Perceptron**           |			 |                 |
 | 4      | 02.05        |              |                                           |	         |  hmwk02         | 
 |        | 02.07        |              |                                           |             |                 | 	
 |        | 02.09        |              |                                           |   		 	 |                 |
