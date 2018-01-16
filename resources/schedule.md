@@ -24,9 +24,9 @@
 | 5      | 02.12        |              | Stochastic Gradient Descent Part 1        |	         |                 | 
 |        | 02.14        |              | Stochastic Gradient Descent Part 2        |	         |                 | 
 |        | 02.16        |              | **Hands-On SGD**                          |			 |                 |
-| 6      | 02.19        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   |	         |  hmwk03         | 
-|        | 02.21        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		           | Back Propagation Part 1                   |	         |                 | 
-|        | 02.23        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			           | Back Propagation Part 2                   |			 |                 |
+| 6      | 02.19        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   |	         |  hmwk03         | 
+|        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		           | Back Propagation Part 1                   |	         |                 | 
+|        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			           | Back Propagation Part 2                   |			 |                 |
 | 7      | 02.26        |              | **Hands-On Neural Nets**                  |	         |                 | 
 |        | 02.28        |              | Neural Nets Mystery Day 1 				   |	         |                 | 
 |        | 03.02        |              | Neural Nets Mystery Day 2                 |			 |                 |
