@@ -61,11 +61,11 @@
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |  hmwk06         | 
 |        | 04.11        |              | The Kernel Trick 						   |			 |			       | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	               | 
-| 14     | 04.16        |              | Decision Trees Part 1                     |	         |                 | 
-|        | 04.18        |              | Decision Trees Part 2                     |	         |                 | 
-|        | 04.20        |              | Random Forest Service                     |			 |                 |
-| 15     | 04.23        |              | Boosting								   |	         |  Practicum      | 
-|        | 04.25        |              | Model-Free RL	Part 1					   |	         |                 | 
+| 14     | 04.16        |              | Multiclass Classification 				   |	         |                 | 
+|        | 04.18        |              | Decision Trees Part 1                     |	         |                 | 
+|        | 04.20        |              | Decision Trees Part 2                     |			 |                 |
+| 15     | 04.23        |              | Random Forest Service                     |	         |  Practicum      | 
+|        | 04.25        |              | Boosting 								   |	         |                 | 
 |        | 04.27        |              | Model-Free RL	Part 2					   |	    	 |                 |
 | 16     | 04.30        |              | Model-Free RL	Part 3					   |	         |                 | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	               |
