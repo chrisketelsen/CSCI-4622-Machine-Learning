@@ -4,7 +4,7 @@
 
 **Class Meeting Time**: MWF 2-2:50pm in ECCR 200 
 
-**Office Hours**: WF 12-1pm in CSEL and Th 1:30-3pm in ECOT 731 or by appointment
+**Office Hours**: WF 12-1pm in and Th 1:30-3pm in ECOT 731 or by appointment
 
 **Prerequisites**: 
 - C- or better in Algorithms 
