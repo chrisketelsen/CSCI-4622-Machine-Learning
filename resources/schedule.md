@@ -10,7 +10,7 @@
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | RQ | Homework   | 
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:--:|:----------:|
 | 1      | 01.15        |              | **MLK DAY - NO CLASS**                    |             |    |            |	
-|        | 01.17        | 1, 2.1       | Machine Learning Intro.                   |	         |    |            |	
+|        | 01.17        | 1, 2.1       | Machine Learning Intro.                   | [slides](cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson01.pdf)	         |    |            |	
 |        | 01.19        | 3.1, 3.2     | Regression Refresher                      |	         |    |            |	
 | 2      | 01.22        | 6.2          | Regularization                            |			 |	  | hmwk01 	   | 
 |        | 01.24        | 2.2          | The Bias-Variance Trade-Off               |	         |    |            |	
