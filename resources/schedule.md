@@ -11,7 +11,7 @@
 |:------:|:------------:| :-----------:| :----------------------------------------:|:-----------:|:--:|:----------:|
 | 1      | 01.15        |              | **MLK DAY - NO CLASS**                    |             |    |            |	
 |        | 01.17        | 1, 2.1       | Machine Learning Intro.                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson01.pdf)	         |    |            |	
-|        | 01.19        | 3.1, 3.2     | Regression Refresher                      |	         |    |            |	
+|        | 01.19        | 3.1, 3.2     | Regression Refresher                      | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson02.pdf)	         |    |            |	
 | 2      | 01.22        | 6.2          | Regularization                            |			 |	  | hmwk01 	   | 
 |        | 01.24        | 2.2          | The Bias-Variance Trade-Off               |	         |    |            |	
 |        | 01.26        |              | **Hands-On Regression**                   |			 |    |            |
@@ -59,14 +59,15 @@
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	  |            |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |	  |  	       | 
 
-
 <!---
 Homework Sketch 
 
 hmwk01: 
-- Linear Algebra Review 
-- Probability Review
+- LaTex something based on a picture 
 - Implement a Python Class 
+- Walk-through of derivation of Normal Eqns for Ridge-Regression 
+	- Ask what happens as lam -> infty 
+- Regularization study based on credit card data? 
 - Bias-Variance Trade-Off - Simulate to get reducible-irreducible error curves
 
 hmwk02:
