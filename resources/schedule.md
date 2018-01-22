@@ -12,7 +12,7 @@
 | 1      | 01.15        |              | **MLK DAY - NO CLASS**                    |             |    |            |	
 |        | 01.17        | 1, 2.1       | Machine Learning Intro.                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson01.pdf)	         |    |            |	
 |        | 01.19        | 3.1, 3.2     | Regression Refresher                      | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson02.pdf)	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21405)   |            |	
-| 2      | 01.22        | 6.2          | Regularization                            |			 |	  | hmwk01 	   | 
+| 2      | 01.22        | 6.2          | Regularization                            | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson03.pdf)			 |	  | hmwk01 	   | 
 |        | 01.24        | 2.2          | The Bias-Variance Trade-Off               |	         |    |            |	
 |        | 01.26        |              | **Hands-On Regression**                   |			 |    |            |
 | 3      | 01.29        | 2.2.3, 4.1, 4.2| Classification and K-Nearest Neighbors  |	         |    |            | 
