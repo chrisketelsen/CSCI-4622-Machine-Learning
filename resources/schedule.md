@@ -4,7 +4,7 @@
 - This schedule is a rough approximation and subject to change.
 - Reading assignments are from _Introduction to Statistical Learning_, by James et. al.
 - Homework is due on Moodle by 5pm on Friday the week **after** the assignment is listed.
-- All in-class notebooks will be posted [here](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/inclass-notebooks)
+- All in-class notebooks will be posted [here](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)
 
 
 | Week   | Date         | Reading      |                   Topic               	   | Slides      | RQ | Homework   | 
