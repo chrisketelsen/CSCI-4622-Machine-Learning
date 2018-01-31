@@ -16,7 +16,7 @@
 |        | 01.24        | 2.2          | The Bias-Variance Trade-Off               | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson04.pdf)		         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21517)   |            |	
 |        | 01.26        |              | **Hands-On Regression**                   | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21562)    |            |
 | 3      | 01.29        | 2.2.3, 4.1, 4.2| Classification and K-Nearest Neighbors  | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson06.pdf)	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21598)   |            | 
-|        | 01.31        | [Daume](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)                                                          								                       | The Perceptron                            |	         |    |            | 
+|        | 01.31        | [Daume](http://ciml.info/dl/v0_99/ciml-v0_99-ch04.pdf)                                                          								                       | The Perceptron                            | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson07.pdf)	         |    |            | 
 |        | 02.02        |              | **Hands-On KNN and Perceptron**           |			 |    |            |
 | 4      | 02.05        | 4.3.1-4.3.3  | Logistic Regression                       |	         |    | hmwk02     | 
 |        | 02.07        |              | Intro to Text Models                      |             |    |            | 	
