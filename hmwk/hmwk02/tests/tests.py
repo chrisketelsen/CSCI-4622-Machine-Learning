@@ -78,13 +78,13 @@ class TestWeightedKNN(unittest.TestCase):
 
 class TestPerceptron(unittest.TestCase):
 
-    def setUp(self):
-        self.X_train = np.array([[1.,1.],[0.5,-1.],[-1.,-1.],[-1.,1.]])
-        self.y_train = np.array([1, -1, -1, -1])
+    def TestNegMistake(self): 
 
-    def TestPerceptronAlgo(self): 
+        X_train = np.array([[1.,1.],[0.5,-1.],[-1.,-1.],[-1.,1.]])
+        y_train = np.array([1, -1, -1, -1])
+
         # Test won't work if you change initial guess for w, b
-        perc = Perceptron(X=self.X_train, y=self.y_train)
+        perc = Perceptron(X=X_train, y=y_train)
         self.assertAlmostEqual(perc.w[0], 1.0)
         self.assertAlmostEqual(perc.w[1], 0.0)
         self.assertAlmostEqual(perc.b, 0.0)
@@ -94,6 +94,25 @@ class TestPerceptron(unittest.TestCase):
         self.assertAlmostEqual(perc.w[0], 0.5)
         self.assertAlmostEqual(perc.w[1], 1.0)
         self.assertAlmostEqual(perc.b, -1.0)
+        self.assertAlmostEqual(perc.num_mistakes, 1.0)
+
+
+    def TestPosMistake(self): 
+
+        X_train = np.array([[1.,1.],[1,-1.],[-.5,-1.],[-1.,1.]])
+        y_train = np.array([1, 1, 1, -1])
+
+        # Test won't work if you change initial guess for w, b
+        perc = Perceptron(X=X_train, y=y_train)
+        self.assertAlmostEqual(perc.w[0], 1.0)
+        self.assertAlmostEqual(perc.w[1], 0.0)
+        self.assertAlmostEqual(perc.b, 0.0)
+
+        # Check w, b after one epoch 
+        perc.train()
+        self.assertAlmostEqual(perc.w[0], 0.5)
+        self.assertAlmostEqual(perc.w[1], -1.0)
+        self.assertAlmostEqual(perc.b, 1.0)
         self.assertAlmostEqual(perc.num_mistakes, 1.0)
 
 
@@ -111,7 +130,7 @@ if testSuite == "prob 2B":
 
 if testSuite == "prob 4A":
     prob4A = unittest.TestSuite()
-    for test in ["TestPerceptronAlgo"]:
+    for test in ["TestNegMistake", "TestPosMistake"]:
         prob4A.addTest(TestPerceptron(test))
     runner = unittest.TextTestRunner(verbosity=2).run(prob4A)
 
