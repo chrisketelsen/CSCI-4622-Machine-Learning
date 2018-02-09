@@ -20,7 +20,7 @@
 |        | 02.02        |              | **Hands-On KNN and Perceptron**           | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 |    |            |
 | 4      | 02.05        | 4.3.1-4.3.3  | Logistic Regression                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson09.pdf)	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21797)   | [hmwk02](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk02)       | 
 |        | 02.07        |              | Intro to Text Models                      | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson10.pdf)            |    |            | 	
-|        | 02.09        |              | **Hands-On Logistic Regression**          |   		 	 |    |            |
+|        | 02.09        |              | **Hands-On Logistic Regression**          | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)  		 	 |    |            |
 | 5      | 02.12        |              | Stochastic Gradient Descent Part 1        |	         |    |            | 
 |        | 02.14        |              | Stochastic Gradient Descent Part 2        |	         |    |            | 
 |        | 02.16        |              | **Hands-On SGD**                          |			 |    |            |
