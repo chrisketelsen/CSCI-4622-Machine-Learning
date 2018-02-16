@@ -22,7 +22,7 @@
 |        | 02.07        |              | Intro to Text Models                      | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson10.pdf)            |    |            | 	
 |        | 02.09        |              | **Hands-On Logistic Regression**          | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)  		 	 |    |            |
 | 5      | 02.12        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 1        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson12.pdf) 	         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21938)   |            | 
-|        | 02.14        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 2        |	         |    |            | 
+|        | 02.14        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 2        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson13.pdf) 	         |    |            | 
 |        | 02.16        |              | **Hands-On SGD**                          |			 |    |            |
 | 6      | 02.19        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   |	         |    | hmwk03     | 
 |        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | Back Propagation Part 1                   |	         |    |            | 
