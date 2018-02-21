@@ -25,13 +25,13 @@
 |        | 02.14        | [Ruder](http://ruder.io/optimizing-gradient-descent/index.html)             | Stochastic Gradient Descent Part 2        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson13.pdf) 	         |    |            | 
 |        | 02.16        |              | **Hands-On SGD**                          | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 |    |            |
 | 6      | 02.19        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)                                    	                                       | Neural Nets and the MLP                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson15.pdf)	         |    | [hmwk03](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk03)     | 
-|        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | Feed-Forward NNs                          |	         |    |            | 
-|        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Back Propagation Part 1                   |			 |    |            |
-| 7      | 02.26        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             																						   | Back Propagation Part 2                   |	         |    |            | 
-|        | 02.28        |              | **Hands-On-Neural Nets**                  |	         |    |            | 
-|        | 03.02        |              | Neural Nets Mystery Day 1                 |			 |    |            |
+|        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | ~~Feed-Forward NNs~~                          |	         |    |            | 
+|        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Feed Forward NNs                   |			 |    |            |
+| 7      | 02.26        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             																						   | Back Propagation Part 1                   |	         |    |            | 
+|        | 02.28        |              | Back Propagation Part 2                  |	         |    |            | 
+|        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
 | 8      | 03.05        |              | Midterm Exam Review                       |	         |    | hmwk04     | 
-|        | 03.07        |              | NNMD 2 + **Evening Midterm Exam**         |	         |    |            | 
+|        | 03.07        |              | NNMD 1 + **Evening Midterm Exam**         |	         |    |            | 
 |        | 03.09        |              | Feature Engineering                       |	         |    |            | 
 | 9      | 03.12        |              | Validation                                |	         |    |            | 
 |        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
