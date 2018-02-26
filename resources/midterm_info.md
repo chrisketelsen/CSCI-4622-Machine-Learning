@@ -22,7 +22,6 @@ Material Overview
 - probabilistic interpretation of regression models 
 - generalities of how weights are estimated 
 - interpretation of the weights in regression models 
-- how to find weights with Stochastic Gradient Descent 
 
 **Regularization** 
 - the point of regularization 
@@ -48,7 +47,11 @@ Material Overview
 - assumptions behind the algorithm 
 - it's probabilistic interpretation 
 - how to perform classification with the algorithm 
-- how to find the weights using Stochastic Gradient Descent 
+
+**Stochastic Gradient Descent**
+- Maximum Likelihood Estimation 
+- how to find the weights in Regression 
+- how to find the weights in Logistic Regression 
 
 **Basic Text Models**
 - binary text features 
