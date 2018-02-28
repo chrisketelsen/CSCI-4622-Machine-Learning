@@ -28,7 +28,7 @@
 |        | 02.21        | [Nielsen 1](http://neuralnetworksanddeeplearning.com/chap1.html)  																		                           | ~~Feed-Forward NNs~~                          |	         |    |            | 
 |        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Feed Forward NNs                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson16.pdf)				 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22190)   |            |
 | 7      | 02.26        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             																						   | Back Propagation Part 1                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson17.pdf)	         |    |            | 
-|        | 02.28        |              | Back Propagation Part 2                  |	         |    |            | 
+|        | 02.28        |              | Back Propagation Part 2                  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson18.pdf)         |    |            | 
 |        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       |	         |    | hmwk04     | 
 |        | 03.07        |              | NNMD 1 + **Evening Midterm Exam**         |	         |    |            | 
