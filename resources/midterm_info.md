@@ -1,7 +1,7 @@
 Midterm Information 
 =
 
-**Time**/**Date**: 7. March at **TBA Time**  in **TBA Location**
+**Time**/**Date**: 7. March from **7-8:30pm**  in **ECCR 265**
 
 Overview and Rules  
 --------
@@ -62,6 +62,6 @@ Material Overview
 - the multilayer perceptron 
 - feed-forward neural networks
 - different activation functions 
-- back propagation and SGD for learning weights 
+- ~~back propagation and SGD for learning weights~~ 
 
 
