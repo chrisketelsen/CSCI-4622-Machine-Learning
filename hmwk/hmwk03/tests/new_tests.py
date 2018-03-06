@@ -10,7 +10,7 @@ class TestLogReg(unittest.TestCase):
 
     def setUp(self):
         self.X_train = np.array([[1,2,1], [1,1,5], [1,2,5], [1,3,5], [1,1,6], [1,2,6], [1,5,1], [1,6,1], [1,7,1], [1,6,2], [1,7,2], [1,5,5]], dtype=float)
-        self.y_train =  np.array([1 if ii < 6 else 0 for ii in range(X.shape[0])], dtype=float)
+        self.y_train =  np.array([1 if ii < 6 else 0 for ii in range(self.X_train.shape[0])], dtype=float)
 
     def testPosUnregUpdate(self): 
         """
