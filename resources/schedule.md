@@ -31,8 +31,8 @@
 |        | 02.28        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             | Back Propagation Part 2                  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson18.pdf)         |    |            | 
 |        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/midterm_review.pdf)	         |    | hmwk04     | 
-|        | 03.07        |              | NNMD 1 + **Evening Midterm Exam**         |	         |    |            | 
-|        | 03.09        |              | Feature Engineering                       |	         |    |            | 
+|        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         |	         |    |            | 
+|        | 03.09        |              | ConvNets                       |	         |    |            | 
 | 9      | 03.12        |              | Validation                                |	         |    |            | 
 |        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
