@@ -32,7 +32,7 @@
 |        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/midterm_review.pdf)	         |    | hmwk04     | 
 |        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         |	         |    |            | 
-|        | 03.09        |              | ConvNets                       |	         |    |            | 
+|        | 03.09        |              | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
 | 9      | 03.12        |              | Validation                                |	         |    |            | 
 |        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
