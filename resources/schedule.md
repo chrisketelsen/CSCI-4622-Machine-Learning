@@ -34,7 +34,7 @@
 |        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)	         |    |            | 
 |        | 03.09        | [Nielsen 6](http://neuralnetworksanddeeplearning.com/chap6.html)             | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
 | 9      | 03.12        |      5        | Validation                                |	         |    |            | 
-|        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
+|        | 03.14        |  [Markhom](http://www.dataschool.io/roc-curves-and-auc-explained/)            | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
 | 10     | 03.19        |              | Discrete Naive Bayes                      |	         |    |  hmwk05    | 
 |        | 03.21        |              | Continuous Naive Bayes                    |	         |    |            | 
