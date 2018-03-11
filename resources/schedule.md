@@ -48,7 +48,7 @@
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |    |      | 
 |        | 04.11        |              | The Kernel Trick 						   |			 |	  |	           | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
-| 14     | 04.16        |              | Multiclass Classification 				   |	         | Practicum    |       | 
+| 14     | 04.16        |              | Multiclass Classification 				   |	         |     |    Practicum   | 
 |        | 04.18        |              | Decision Trees Part 1                     |	         |    |            | 
 |        | 04.20        |              | Decision Trees Part 2                     |			 |    |            |
 | 15     | 04.23        |              | Random Forest Service                     |	         |    |   | 
