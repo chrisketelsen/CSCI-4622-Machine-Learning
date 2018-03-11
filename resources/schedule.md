@@ -33,7 +33,7 @@
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/midterm_review.pdf)	         |    |      | 
 |        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)	         |    |            | 
 |        | 03.09        | [Nielsen 6](http://neuralnetworksanddeeplearning.com/chap6.html)             | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
-| 9      | 03.12        |      5        | Validation                                |	         |    | hmwk04           | 
+| 9      | 03.12        |      5        | Validation                                |	         |    | hmwk04   |  
 |        | 03.14        |  [Markhom](http://www.dataschool.io/roc-curves-and-auc-explained/)            | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
 | 10     | 03.19        |              | Discrete Naive Bayes                      |	         |    |      | 
@@ -42,13 +42,13 @@
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |    |            |
-| 12     | 04.02        |              | Little Bit'o Theory 					   |	         | hmwk05   |            | 
+| 12     | 04.02        |              | Little Bit'o Theory 					   | |    | hmwk05           | 
 |        | 04.04        |              | Hard-Margin SVM 						   |	         |    |            | 
 |        | 04.06        |              | Soft-Margin SVM Part 1                    |			 |    |            |
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |    |      | 
 |        | 04.11        |              | The Kernel Trick 						   |			 |	  |	           | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
-| 14     | 04.16        |              | Multiclass Classification 				   |	         | Practicum    |            | 
+| 14     | 04.16        |              | Multiclass Classification 				   |	         | Practicum    |       | 
 |        | 04.18        |              | Decision Trees Part 1                     |	         |    |            | 
 |        | 04.20        |              | Decision Trees Part 2                     |			 |    |            |
 | 15     | 04.23        |              | Random Forest Service                     |	         |    |   | 
