@@ -29,11 +29,11 @@
 |        | 02.23        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																			                           | Feed Forward NNs                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson16.pdf)				 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22190)   |            |
 | 7      | 02.26        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             																						   | Back Propagation Part 1                   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson17.pdf)	         |    |            | 
 |        | 02.28        | [Nielsen 2](http://neuralnetworksanddeeplearning.com/chap2.html)             | Back Propagation Part 2                  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson18.pdf)         |    |            | 
-|        | 03.02        |              | **Hands-On-Neural Nets**                 |			 |    |            |
+|        | 03.02        |              | **Hands-On-Neural Nets**                 | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 |    |            |
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/midterm_review.pdf)	         |    | hmwk04     | 
-|        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         |	         |    |            | 
+|        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)	         |    |            | 
 |        | 03.09        | [Nielsen 6](http://neuralnetworksanddeeplearning.com/chap6.html)             | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
-| 9      | 03.12        |              | Validation                                |	         |    |            | 
+| 9      | 03.12        |      5        | Validation                                |	         |    |            | 
 |        | 03.14        |              | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
 | 10     | 03.19        |              | Discrete Naive Bayes                      |	         |    |  hmwk05    | 
