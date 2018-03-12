@@ -33,7 +33,7 @@
 | 8      | 03.05        |              | [Midterm Exam Review](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/midterm_info.md)                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/midterm_review.pdf)	         |    |      | 
 |        | 03.07        |              | Feature Engr. + **Evening Midterm Exam**         | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)	         |    |            | 
 |        | 03.09        | [Nielsen 6](http://neuralnetworksanddeeplearning.com/chap6.html)             | ConvNets                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson20.pdf) 	         |    |            | 
-| 9      | 03.12        |      5        | Validation                                |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson21.pdf)          |    | hmwk04   |  
+| 9      | 03.12        |      5        | Validation                                |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson21.pdf)          | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22555&forceview=1)    | hmwk04   |  
 |        | 03.14        |  [Markhom](http://www.dataschool.io/roc-curves-and-auc-explained/)            | Evaluation Metrics                        |	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |			 |    |            |
 | 10     | 03.19        |              | Discrete Naive Bayes                      |	         |    |      | 
