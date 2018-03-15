@@ -39,26 +39,26 @@ class TestNN(unittest.TestCase):
         """
         self.nn.back_prop(self.X_train[0],self.y_train[0])
 
-        self.assertAlmostEqual(self.nn.dW[0][0,0], -0.052474530494067473)
-        self.assertAlmostEqual(self.nn.dW[0][0,1], -0.10494906098813495)
-        self.assertAlmostEqual(self.nn.dW[0][1,0],  0.066216197205198363)
-        self.assertAlmostEqual(self.nn.dW[0][1,1],  0.13243239441039673)
-        self.assertAlmostEqual(self.nn.dW[0][2,0],  0.023518130014919033)
-        self.assertAlmostEqual(self.nn.dW[0][2,1],  0.047036260029838066)
+        self.assertAlmostEqual(self.nn.dW[0][0,0], -0.013004963108364378)
+        self.assertAlmostEqual(self.nn.dW[0][0,1], -0.026009926216728756)
+        self.assertAlmostEqual(self.nn.dW[0][1,0],  0.016376329584037203)
+        self.assertAlmostEqual(self.nn.dW[0][1,1],  0.032752659168074405)
+        self.assertAlmostEqual(self.nn.dW[0][2,0],  0.0058198669975548425)
+        self.assertAlmostEqual(self.nn.dW[0][2,1],  0.011639733995109685)
 
-        self.assertAlmostEqual(self.nn.dW[1][0,0], -0.3246754823813483)
-        self.assertAlmostEqual(self.nn.dW[1][0,1], -0.21763648429650878)
-        self.assertAlmostEqual(self.nn.dW[1][0,2], -0.37418141781784953)
-        self.assertAlmostEqual(self.nn.dW[1][1,0],  0.33354686367842828)
-        self.assertAlmostEqual(self.nn.dW[1][1,1],  0.22358314901596715)
-        self.assertAlmostEqual(self.nn.dW[1][1,2],  0.38440549142943564)
+        self.assertAlmostEqual(self.nn.dW[1][0,0],  -0.080587603259700741)
+        self.assertAlmostEqual(self.nn.dW[1][0,1],  -0.054019485926944437)
+        self.assertAlmostEqual(self.nn.dW[1][0,2],  -0.092875456517653776)
+        self.assertAlmostEqual(self.nn.dW[1][1,0],   0.082298072874257167)
+        self.assertAlmostEqual(self.nn.dW[1][1,1],   0.055166047997716461)
+        self.assertAlmostEqual(self.nn.dW[1][1,2],   0.094846735472303406)
 
-        self.assertAlmostEqual(self.nn.db[0][0], -0.052474530494067473)
-        self.assertAlmostEqual(self.nn.db[0][1],  0.066216197205198363)
-        self.assertAlmostEqual(self.nn.db[0][2],  0.023518130014919033)
+        self.assertAlmostEqual(self.nn.db[0][0],  -0.013004963108364378)
+        self.assertAlmostEqual(self.nn.db[0][1],   0.016376329584037203)
+        self.assertAlmostEqual(self.nn.db[0][2],   0.0058198669975548425)
 
-        self.assertAlmostEqual(self.nn.db[1][0], -0.54231196667785708)
-        self.assertAlmostEqual(self.nn.db[1][1],  0.55713001269439544)
+        self.assertAlmostEqual(self.nn.db[1][0],  -0.13460708918664518)
+        self.assertAlmostEqual(self.nn.db[1][1],   0.13746412087197363) 
 
     def testSGD(self):
         """
@@ -66,26 +66,26 @@ class TestNN(unittest.TestCase):
         """
         self.nn.train(self.X_train,self.y_train, eta=0.25, lam=0.0, num_epochs=2, isPrint=False)
 
-        self.assertAlmostEqual(self.nn.W[0][0,0],  0.12900460960671509)
-        self.assertAlmostEqual(self.nn.W[0][0,1],  0.25800921921343017)
-        self.assertAlmostEqual(self.nn.W[0][1,0], -0.1275584298240941)
-        self.assertAlmostEqual(self.nn.W[0][1,1], -0.2551168596481882) 
-        self.assertAlmostEqual(self.nn.W[0][2,0], -0.10614724024199987)
-        self.assertAlmostEqual(self.nn.W[0][2,1],  0.28770551951600032)
+        self.assertAlmostEqual(self.nn.W[0][0,0],  0.10672555566225433)
+        self.assertAlmostEqual(self.nn.W[0][0,1],  0.21345111132450867)
+        self.assertAlmostEqual(self.nn.W[0][1,0], -0.1078460521612368)
+        self.assertAlmostEqual(self.nn.W[0][1,1], -0.2156921043224736)
+        self.assertAlmostEqual(self.nn.W[0][2,0], -0.10254291273787794)
+        self.assertAlmostEqual(self.nn.W[0][2,1],  0.29491417452424407)
 
-        self.assertAlmostEqual(self.nn.W[1][0,0],  0.45404965242391082)
-        self.assertAlmostEqual(self.nn.W[1][0,1], -0.10100861856180195)
-        self.assertAlmostEqual(self.nn.W[1][0,2],  0.074090776885554571)
-        self.assertAlmostEqual(self.nn.W[1][1,0], -0.25834286364088743)
-        self.assertAlmostEqual(self.nn.W[1][1,1],  0.19825242013683891)
-        self.assertAlmostEqual(self.nn.W[1][1,2], -0.078940420827764327)
+        self.assertAlmostEqual(self.nn.W[1][0,0],  0.3398926248349024)
+        self.assertAlmostEqual(self.nn.W[1][0,1], -0.17355445664174357)
+        self.assertAlmostEqual(self.nn.W[1][0,2], -0.05426225729891615)
+        self.assertAlmostEqual(self.nn.W[1][1,0], -0.14079398398421336)
+        self.assertAlmostEqual(self.nn.W[1][1,1],  0.27295734199412003)
+        self.assertAlmostEqual(self.nn.W[1][1,2],  0.053229161962644732)
 
-        self.assertAlmostEqual(self.nn.b[0][0], -0.070995390393284924)
-        self.assertAlmostEqual(self.nn.b[0][1],  0.072441570175905898)
-        self.assertAlmostEqual(self.nn.b[0][2],  0.29385275975800013)
+        self.assertAlmostEqual(self.nn.b[0][0], -0.093274444337745677)
+        self.assertAlmostEqual(self.nn.b[0][1],  0.092153947838763212)
+        self.assertAlmostEqual(self.nn.b[0][2],  0.29745708726212206)
 
-        self.assertAlmostEqual(self.nn.b[1][0],  0.053614322995520436)
-        self.assertAlmostEqual(self.nn.b[1][1], -0.16068005771911104)
+        self.assertAlmostEqual(self.nn.b[1][0], -0.13362224659049363)
+        self.assertAlmostEqual(self.nn.b[1][1],  0.032122823060367525)
 
     def testRegularizedSGD(self):
         """
@@ -93,26 +93,26 @@ class TestNN(unittest.TestCase):
         """
         self.nn.train(self.X_train,self.y_train, eta=0.25, lam=1.0, num_epochs=2, isPrint=False)
 
-        self.assertAlmostEqual(self.nn.W[0][0,0],  0.07956554258404433)
-        self.assertAlmostEqual(self.nn.W[0][0,1],  0.15913108516808866)
-        self.assertAlmostEqual(self.nn.W[0][1,0], -0.076329338984104794)
-        self.assertAlmostEqual(self.nn.W[0][1,1], -0.15265867796820959)
-        self.assertAlmostEqual(self.nn.W[0][2,0], -0.059585510408211258)
-        self.assertAlmostEqual(self.nn.W[0][2,1],  0.1620789791835775)
+        self.assertAlmostEqual(self.nn.W[0][0,0],  0.061442714519434803)
+        self.assertAlmostEqual(self.nn.W[0][0,1],  0.12288542903886961)
+        self.assertAlmostEqual(self.nn.W[0][1,0], -0.062135336255117087)
+        self.assertAlmostEqual(self.nn.W[0][1,1], -0.12427067251023417)
+        self.assertAlmostEqual(self.nn.W[0][2,0], -0.058105802131058891)
+        self.assertAlmostEqual(self.nn.W[0][2,1],  0.16503839573788223)
 
-        self.assertAlmostEqual(self.nn.W[1][0,0],  0.29981338807709029)
-        self.assertAlmostEqual(self.nn.W[1][0,1], -0.02301230001884183)
-        self.assertAlmostEqual(self.nn.W[1][0,2],  0.092120504443546303)
-        self.assertAlmostEqual(self.nn.W[1][1,0], -0.18939477160834683)
-        self.assertAlmostEqual(self.nn.W[1][1,1],  0.077857379836854229)
-        self.assertAlmostEqual(self.nn.W[1][1,2], -0.094503309481706793)
+        self.assertAlmostEqual(self.nn.W[1][0,0],  0.20276038197618426)
+        self.assertAlmostEqual(self.nn.W[1][0,1], -0.088333400593527747)
+        self.assertAlmostEqual(self.nn.W[1][0,2], -0.017047738414153385)
+        self.assertAlmostEqual(self.nn.W[1][1,0], -0.09070778645394395)
+        self.assertAlmostEqual(self.nn.W[1][1,1],  0.14427432137252863)
+        self.assertAlmostEqual(self.nn.W[1][1,2],  0.016532074033061488)
 
-        self.assertAlmostEqual(self.nn.b[0][0], -0.073404799260076481)
-        self.assertAlmostEqual(self.nn.b[0][1],  0.075782148690570317)
-        self.assertAlmostEqual(self.nn.b[0][2],  0.29519460646585632)
+        self.assertAlmostEqual(self.nn.b[0][0],  -0.093994475286292442)
+        self.assertAlmostEqual(self.nn.b[0][1],   0.0930911431458806)
+        self.assertAlmostEqual(self.nn.b[0][2],   0.29778045618159393)
 
-        self.assertAlmostEqual(self.nn.b[1][0],  0.055041238882961835)
-        self.assertAlmostEqual(self.nn.b[1][1], -0.15945721790381118)
+        self.assertAlmostEqual(self.nn.b[1][0],  -0.13336928784220636)
+        self.assertAlmostEqual(self.nn.b[1][1],   0.032433966255943282)
 
 
 
