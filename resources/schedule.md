@@ -37,7 +37,7 @@
 |        | 03.14        |  [Markhom](http://www.dataschool.io/roc-curves-and-auc-explained/)            | Evaluation Metrics                        | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson22.pdf)	         |    |            | 
 |        | 03.16        |              | **Hands-On Eval and Validation**          |	[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)		 |    |            |
 | 10     | 03.19        | [Raschka](https://arxiv.org/pdf/1410.5329.pdf)             | Discrete Naive Bayes   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson24.pdf)         |    |      | 
-|        | 03.21        |              | Continuous Naive Bayes                    |	         |    |            | 
+|        | 03.21        |              | More Naive Bayes                    |	 [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson25.pdf)        |    |            | 
 |        | 03.23        |  	           | **Hands-On Naive Bayes**                  |		     |    |            |
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
