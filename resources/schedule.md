@@ -38,11 +38,11 @@
 |        | 03.16        |              | **Hands-On Eval and Validation**          |	[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)		 |    |            |
 | 10     | 03.19        | [Raschka](https://arxiv.org/pdf/1410.5329.pdf)             | Discrete Naive Bayes   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson24.pdf)         |    |      | 
 |        | 03.21        |              | More Naive Bayes                    |	 [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson25.pdf)        |    |            | 
-|        | 03.23        |  	           | **Hands-On Naive Bayes**                  |		     |    |            |
+|        | 03.23        |  	           | **Hands-On Naive Bayes**                  |[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)		     |    |            |
 | 11     | 03.26        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.28        |              | **SPRING BREAK - NO CLASS**               |	         |    |            | 
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |    |            |
-| 12     | 04.02        |              | Little Bit'o Theory 					   | |    | hmwk05           | 
+| 12     | 04.02        |              | Little Bit'o Theory 					   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson27.pdf) |    | hmwk05           | 
 |        | 04.04        |              | Hard-Margin SVM 						   |	         |    |            | 
 |        | 04.06        |              | Soft-Margin SVM Part 1                    |			 |    |            |
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |    |      | 
