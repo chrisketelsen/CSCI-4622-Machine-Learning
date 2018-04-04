@@ -68,13 +68,13 @@ class TestNB(unittest.TestCase):
 
         class_scores = self.nb.predict_log_score(self.text_train[2])
         self.assertEqual(len(class_scores), 2)
-        self.assertAlmostEqual(class_scores[0], -4.7391181584978304)
-        self.assertAlmostEqual(class_scores[1], -4.0288178987116359)
+        self.assertAlmostEqual(class_scores[0], -6.6850283075531438)
+        self.assertAlmostEqual(class_scores[1], -5.763418954099742)
 
         class_scores = self.nb.predict_log_score(self.text_train[4])
         self.assertEqual(len(class_scores), 2)
-        self.assertAlmostEqual(class_scores[0], -4.7391181584978304)
-        self.assertAlmostEqual(class_scores[1], -5.127430187379745)
+        self.assertAlmostEqual(class_scores[0], -6.6850283075531438)
+        self.assertAlmostEqual(class_scores[1], -6.862031242767852)
 
     def testPredict(self): 
         """
