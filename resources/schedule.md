@@ -44,7 +44,7 @@
 |        | 03.30        |              | **SPRING BREAK - NO CLASS**               |			 |    |            |
 | 12     | 04.02        |              | Little Bit'o Theory 					   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson27.pdf) |    | [hmwk05](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk05)           | 
 |        | 04.04        |              | Hard-Margin SVM 			   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson28.pdf)          | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22947)   |            | 
-|        | 04.06        |              | Soft-Margin SVM Part 1                    |			 |    |            |
+|        | 04.06        |              | Soft-Margin SVM Part 1                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson29.pdf)			 |    |            |
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    |			 |    |      | 
 |        | 04.11        |              | The Kernel Trick 						   |			 |	  |	           | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
