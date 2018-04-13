@@ -45,7 +45,7 @@
 | 12     | 04.02        |              | Little Bit'o Theory 					   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson27.pdf) |    | [hmwk05](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/hmwk/hmwk05)           | 
 |        | 04.04        |              | Hard-Margin SVM 			   |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson28.pdf)          | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22947)   |            | 
 |        | 04.06        |              | Soft-Margin SVM Part 1                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson29.pdf)			 |    |            |
-| 13     | 04.09        |              | Soft-Margin SVM Part 2                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson30.pdf)			 |    |      | 
+| 13     | 04.09        |              | Soft-Margin SVM Part 2                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson30.pdf)			 | [nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)   |      | 
 |        | 04.11        |              | The Kernel Trick 						   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson31.pdf)			 |	  |	           | 
 |        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
 | 14     | 04.16        |              | Multiclass Classification 				   |	         |     |    Practicum   | 
