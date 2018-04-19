@@ -47,9 +47,9 @@
 |        | 04.06        |              | Soft-Margin SVM Part 1                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson29.pdf)			 |    |            |
 | 13     | 04.09        |              | Soft-Margin SVM Part 2                    | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson30.pdf)			 |    |      | 
 |        | 04.11        |              | The Kernel Trick 						   | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson31.pdf)			 |	  |	           | 
-|        | 04.13        |              | **Hands-On SVM**						   |			 |	  |            | 
-| 14     | 04.16        |              | Multiclass Classification 				   |	         |     |    Practicum   | 
-|        | 04.18        |              | Decision Trees Part 1                     |	         |    |            | 
+|        | 04.13        |              | **Hands-On SVM**						   |[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23091)	  |            | 
+| 14     | 04.16        |              | Multiclass Classification  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson33.pdf)         |     |       | 
+|        | 04.18        |              | Decision Trees Part 1                     |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson34.pdf)	         |    |  Practicum          | 
 |        | 04.20        |              | Decision Trees Part 2                     |			 |    |            |
 | 15     | 04.23        |              | Random Forest Service                     |	         |    |   | 
 |        | 04.25        |              | Model-Free RL  Part 1 					   |	         |    |            | 
