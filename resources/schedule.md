@@ -53,7 +53,7 @@
 |        | 04.20        |              | ~~Decision Trees Part 2~~                     |			 |    |            |
 | 15     | 04.23        |              | Decisions Trees Part 2                     | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson35.pdf)	         |    |   | 
 |        | 04.25        |              | Bagging and Random Forests 			| [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson36.pdf)	         |    |            | 
-|        | 04.27        |              | Boosted Decision Trees			   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson36.pdf)	    	 |    |            |
+|        | 04.27        |              | Boosted Decision Trees			   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson37.pdf)	    	 |    |            |
 | 16     | 04.30        |              | **Hands-On AdaBoost**			   |	         |    |            | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	  |            |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	  |            |
