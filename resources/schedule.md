@@ -50,11 +50,11 @@
 |        | 04.13        |              | **Hands-On SVM**						   |[nbk](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/in-class-notebooks)			 | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23091)	  |            | 
 | 14     | 04.16        |              | Multiclass Classification  |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson33.pdf)         |     |       | 
 |        | 04.18        |              | Decision Trees Part 1                     |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson34.pdf)	         |    |  [Practicum](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/tree/master/practicum)         | 
-|        | 04.20        |              | Decision Trees Part 2                     |			 |    |            |
-| 15     | 04.23        |              | Random Forest Service                     |	         |    |   | 
-|        | 04.25        |              | Model-Free RL  Part 1 					   |	         |    |            | 
-|        | 04.27        |              | Model-Free RL	Part 2					   |	    	 |    |            |
-| 16     | 04.30        |              | Model-Free RL	Part 3					   |	         |    |            | 
+|        | 04.20        |              | ~~Decision Trees Part 2~~                     |			 |    |            |
+| 15     | 04.23        |              | Decisions Trees Part 2                     | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson35.pdf)	         |    |   | 
+|        | 04.25        |              | Bagging and Random Forests 			| [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson36.pdf)	         |    |            | 
+|        | 04.27        |              | Boosted Decision Trees			   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson37.pdf)	    	 |    |            |
+| 16     | 04.30        |              | **Hands-On AdaBoost**			   |	         |    |            | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	  |            |
 |        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	  |            |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |	  |  	       | 
