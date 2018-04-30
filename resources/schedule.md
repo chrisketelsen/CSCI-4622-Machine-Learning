@@ -56,7 +56,7 @@
 |        | 04.27        |              | Boosted Decision Trees			   |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci4622/slides/lesson37.pdf)	    	 |    |            |
 | 16     | 04.30        |              | **Hands-On AdaBoost**			   |	         |    |            | 
 |        | 05.02        |              | Ethics and Machine Learning               |			 |	  |            |
-|        | 05.04        |              | **READING DAY - FINAL EXAM REVIEW**	   |			 |	  |            |
+|        | 05.04        |              | **READING DAY** - [FINAL EXAM REVIEW](https://github.com/chrisketelsen/CSCI-4622-Machine-Learning/blob/master/resources/final_info.md)	   |			 |	  |            |
 | 17     | 05.XX        |              | **FINAL EXAM**                            |			 |	  |  	       | 
 
 <!---
